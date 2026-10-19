@@ -7,7 +7,7 @@ contains only the Bubble Sort implementation, synthetic paired inputs, its recor
 timings/calibration, analysis and figure. These observations illustrate an early
 exit and measurement practice; they are not a novelty or peer-reviewed publication
 claim. See `RIGHTS.md` for licensing: MIT for code; CC BY 4.0 for data,
-documentation and figures. Release: v1.0.0.
+documentation and figures. Release: v1.0.1.
 
 ## What is here
 
@@ -85,6 +85,5 @@ The linear best-case comparison count is n−1 for an already sorted input of n�
 values; descending distinct inputs make n(n−1)/2 comparisons. Those formulas are
 not elapsed-time ratios. Swaps, copying and interpreter/machine costs also matter.
 
-AI assistance: Codex supported implementation, benchmark operation, analysis,
-validation, figure preparation and documentation. The named author remains
+AI tools assisted with code, experiments, analysis and documentation. The named author remains
 responsible for reviewing the scientific content and any publication.

@@ -11,7 +11,7 @@ Copyright (c) 2026 Gokul Krishna.
 - These scope rules apply to the bundle's original material; the included license
   texts retain their own terms. No third-party dependency code is bundled.
 
-Suggested credit: Gokul Krishna, “Bubble Sort’s Early Exit: code and data,” v1.0.0,
+Suggested credit: Gokul Krishna, “Bubble Sort’s Early Exit: code and data,” v1.0.1,
 https://github.com/gokul-debugger/bubble-sort-early-exit . When reusing CC BY material,
 retain attribution, link the license, and indicate changes as required by its terms.
 

@@ -9,7 +9,7 @@
   "function_export": "Bubble function body unchanged; original seed/hash/generator and timer/calibrator functions extracted by name",
   "driver": "New portable Bubble-only driver; original cross-method timing schedule not reconstructed",
   "interpretation": "Synthetic distinct integers, one machine, warm repeated calls; descriptive medians/IQR; no peer-review or novelty claim",
-  "ai_assistance": "Codex assisted implementation, experiment operation, analysis, validation and documentation",
+  "ai_assistance": "AI tools assisted with implementation, experiments, analysis, validation and documentation",
   "license_status": "MIT for code; CC-BY-4.0 for data, documentation, figures and JSON metadata/configuration",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

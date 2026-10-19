@@ -1,6 +1,6 @@
 {
   "package": "bubble-sort-early-exit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": {
     "DATA_DICTIONARY.md": {
       "bytes": 2482,
@@ -19,16 +19,16 @@
       "sha256": "aa417106efc6cdf8a6ca7bddf04205251103c923fc0939ced527a447cf9c4dfb"
     },
     "PROVENANCE.json": {
-      "bytes": 961,
-      "sha256": "5a6e5318236a52b75527a68273ab2c0bcbacbaef0299f22802750bba4500b194"
+      "bytes": 960,
+      "sha256": "4151da6e434ef9009b4458753c71ca996ab2645ad1ac9cb869bbdf6e3313136b"
     },
     "README.md": {
-      "bytes": 4504,
-      "sha256": "ddbaab8affd226e4a69393cbb11f0d071dab16af7b1228df473ad2c222d353cd"
+      "bytes": 4446,
+      "sha256": "2f886ea7da3cf9ddd9f657a192b33140ee09854fb1049254eb3e5fc5b5040038"
     },
     "RIGHTS.md": {
       "bytes": 1024,
-      "sha256": "6c8a2cfa3651da3129c9bf223e669cfb7c5b6056c40220b7fbdcf3d4f4f46819"
+      "sha256": "f2f40456b5984d6948a402b85674f87607ffeeba9e37eb9fde8e24926f3d0305"
     },
     "analyze.py": {
       "bytes": 4419,
