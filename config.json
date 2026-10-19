@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "sizes": [
+      100,
+      500,
+      1000,
+      2000
+    ],
+    "inputs": 10,
+    "repeats": 5,
+    "warmups": 1,
+    "target_batch_ns": 3000000,
+    "max_calls": 10000,
+    "soft_call_limit_seconds": 1.0,
+    "methods_per_repeat": 5
+  },
+  "datasets": {
+    "dataset-1": {
+      "master_seed": 20261020,
+      "environment": {
+        "python": "3.12.13",
+        "platform": "macOS-27.0.1-arm64-arm-64bit",
+        "architecture": "arm64",
+        "logical_cpus": 8,
+        "processor": "Apple M1 Pro",
+        "memory_gb": 16
+      }
+    },
+    "dataset-2": {
+      "master_seed": 20261021,
+      "environment": {
+        "python": "3.12.13",
+        "platform": "macOS-27.0.1-arm64-arm-64bit",
+        "architecture": "arm64",
+        "logical_cpus": 8,
+        "processor": "Apple M1 Pro",
+        "memory_gb": 16
+      }
+    }
+  },
+  "collection_design": "historical_five_method_interleaving_bubble_export",
+  "portable_rerun_design": "bubble_only_rerun_v1"
+}

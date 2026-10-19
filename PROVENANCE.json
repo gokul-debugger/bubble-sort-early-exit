@@ -1,0 +1,15 @@
+{
+  "title": "Bubble Sort’s Early Exit: code and data",
+  "author": "Gokul Krishna",
+  "output_type": "educational computational experiment",
+  "selection": "All Bubble rows from two separate paired-order datasets; no outcome-based selection",
+  "historical_batches": 1200,
+  "calibration_records": 240,
+  "ordered_inputs": 240,
+  "function_export": "Bubble function body unchanged; original seed/hash/generator and timer/calibrator functions extracted by name",
+  "driver": "New portable Bubble-only driver; original cross-method timing schedule not reconstructed",
+  "interpretation": "Synthetic distinct integers, one machine, warm repeated calls; descriptive medians/IQR; no peer-review or novelty claim",
+  "ai_assistance": "Codex assisted implementation, experiment operation, analysis, validation and documentation",
+  "license_status": "MIT for code; CC-BY-4.0 for data, documentation, figures and JSON metadata/configuration",
+  "version": "1.0.0"
+}

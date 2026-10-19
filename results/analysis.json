@@ -1,0 +1,11 @@
+{
+  "datasets": [
+    "dataset-1",
+    "dataset-2"
+  ],
+  "successful_batches": 1200,
+  "batches_below_target": 0,
+  "method": "median of batch-average times per input; median and inclusive IQR across inputs; datasets separate",
+  "uncertainty": "descriptive IQR, not a confidence interval",
+  "evidence": "preserved historical observations"
+}

@@ -1,0 +1,13 @@
+{
+  "input_summary": "results/summary.csv",
+  "summary_sha256": "42b3d71af0df32ff71bd9490fed022898721483e95915277427ad311210ce0ab",
+  "generator": "plot.py",
+  "generator_sha256": "e392ac292ca58f7639a05e8b218b668ce9885aa002151100887440bea665dc8b",
+  "matplotlib": "3.10.7",
+  "axis": "logarithmic time",
+  "spread": "inclusive descriptive IQR across input medians",
+  "images": {
+    "first-post-bubble.png": "87a373906ef0390be8572edeff155a5b1d06b27224f2310a76be3b1585ffc572",
+    "first-post-bubble.svg": "47bc9b07c27c44fd5c00a0d0c9375079e082189caa7edd8141ae0ef489493f1d"
+  }
+}
