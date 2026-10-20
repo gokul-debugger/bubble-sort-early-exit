@@ -1,5 +1,11 @@
 # Bubble Sort’s Early Exit: code and data
 
+[![Bubble Sort’s Early Exit: Why Input Order Matters — illustrated article cover](figures/article-cover.png)](https://debuggerpaco.medium.com/bubble-sorts-early-exit-why-input-order-matters-d3db0a0079e2)
+
+[Read the published article on Medium](https://debuggerpaco.medium.com/bubble-sorts-early-exit-why-input-order-matters-d3db0a0079e2).
+
+*Cover illustration: the timing labels refer to the 2,000-value experiment. The six-item examples are illustrative and are not the paired benchmark inputs.*
+
 Gokul Krishna · educational computational experiment.
 
 This bundle accompanies “Bubble Sort’s Early Exit: Why Input Order Matters.” It
@@ -19,7 +25,7 @@ documentation and figures. Release: v1.0.1.
 - `tests/test_bundle.py`: correctness, count, GC-state, input/provenance and aggregation checks.
 - `data/`: both datasets' original Bubble-only timing/calibration records and all exact inputs.
 - `results/`: regenerated input medians, summaries and the article table.
-- `figures/`: the article PNG and SVG, plus figure provenance.
+- `figures/`: the measured chart in PNG/SVG, its provenance, and the supplied article cover.
 - `METHODS.md`, `DATA_DICTIONARY.md`, `PROVENANCE.json`, `config.json`: interpretation and settings.
 - `requirements-figures.txt`: pinned optional plotting dependencies; analysis uses only the standard library.
 - `MANIFEST.json`: exact payload inventory, byte counts and SHA-256 hashes (excluding itself).
